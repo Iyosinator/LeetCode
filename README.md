@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Iyosinator/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/Iyosinator/LeetCode/tree/master/0242-valid-anagram) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Iyosinator/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Iyosinator/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Iyosinator/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Iyosinator/LeetCode/tree/master/0242-valid-anagram) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Iyosinator/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2846-robot-collisions](https://github.com/Iyosinator/LeetCode/tree/master/2846-robot-collisions) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Iyosinator/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Iyosinator/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Iyosinator/LeetCode/tree/master/0242-valid-anagram) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Iyosinator/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Iyosinator/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
