@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Iyosinator/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1720-crawler-log-folder](https://github.com/Iyosinator/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Iyosinator/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Iyosinator/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2727-number-of-senior-citizens](https://github.com/Iyosinator/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2846-robot-collisions](https://github.com/Iyosinator/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
