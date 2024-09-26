@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Iyosinator/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iyosinator/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Iyosinator/LeetCode/tree/master/0217-contains-duplicate) |
+| [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/Iyosinator/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Iyosinator/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Iyosinator/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3435-block-placement-queries](https://github.com/Iyosinator/LeetCode/tree/master/3435-block-placement-queries) |
 ## Binary Indexed Tree
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
 | [3435-block-placement-queries](https://github.com/Iyosinator/LeetCode/tree/master/3435-block-placement-queries) |
 ## Greedy
 |  |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Iyosinator/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
