@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Iyosinator/LeetCode/tree/master/0217-contains-duplicate) |
 | [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Iyosinator/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Iyosinator/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Iyosinator/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Iyosinator/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -168,9 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Iyosinator/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Iyosinator/LeetCode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
