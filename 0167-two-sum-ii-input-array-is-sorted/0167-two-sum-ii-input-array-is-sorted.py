@@ -1,20 +1,18 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        # 1 indexed array
-        # Sorted in Asending Order
-        # The indices of the target sum
+        # Initalize the pointers
         left = 0
         right = len(numbers) -1
+
         while left < right:
-            current_sum = numbers[left] + numbers[right]
-            if current_sum > target:
-                right -=1
-            elif current_sum < target:
-                left += 1
+            currentsum = numbers[left] + numbers[right]
+            if target == currentsum:
+                return [left+1,right+1]
+            elif target < currentsum:
+                right-=1
             else:
-                return [left +1 ,right+1]
-        return []
-        
-        
-        
+                left+=1
+
+
+
 
