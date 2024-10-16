@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Iyosinator/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Iyosinator/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Iyosinator/LeetCode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Iyosinator/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Iyosinator/LeetCode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Iyosinator/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Iyosinator/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Iyosinator/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Iyosinator/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Iyosinator/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Iyosinator/LeetCode/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/Iyosinator/LeetCode/tree/master/3195-separate-black-and-white-balls) |
