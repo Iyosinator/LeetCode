@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Iyosinator/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Iyosinator/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0917-boats-to-save-people](https://github.com/Iyosinator/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1002-maximum-width-ramp](https://github.com/Iyosinator/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Iyosinator/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Iyosinator/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Iyosinator/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Iyosinator/LeetCode/tree/master/0670-maximum-swap) |
+| [0917-boats-to-save-people](https://github.com/Iyosinator/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1304-longest-happy-string](https://github.com/Iyosinator/LeetCode/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Iyosinator/LeetCode/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Iyosinator/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
+| [0917-boats-to-save-people](https://github.com/Iyosinator/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1256-rank-transform-of-an-array](https://github.com/Iyosinator/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Iyosinator/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Iyosinator/LeetCode/tree/master/2502-sort-the-people) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Iyosinator/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Iyosinator/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0917-boats-to-save-people](https://github.com/Iyosinator/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/Iyosinator/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
