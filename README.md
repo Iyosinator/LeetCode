@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Iyosinator/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iyosinator/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Iyosinator/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Iyosinator/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Iyosinator/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Iyosinator/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iyosinator/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Iyosinator/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/Iyosinator/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Iyosinator/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Iyosinator/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Iyosinator/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Iyosinator/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iyosinator/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2232-adding-spaces-to-a-string](https://github.com/Iyosinator/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Iyosinator/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/Iyosinator/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/Iyosinator/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Iyosinator/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
