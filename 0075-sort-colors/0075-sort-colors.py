@@ -4,10 +4,10 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        for i in range(n):
-            min_index = i
-            for j in range(i + 1, n):
-                if nums[j] < nums[min_index]:
-                    min_index = j
-            nums[i], nums[min_index] = nums[min_index], nums[i]
-        return nums
+        for i in range(1, n):
+            key = nums[i]
+            j = i - 1
+            while j >= 0 and nums[j] > key:
+                nums[j + 1] = nums[j]
+                j -= 1
+            nums[j + 1] = key
