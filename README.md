@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Iyosinator/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Iyosinator/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Iyosinator/LeetCode/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Iyosinator/LeetCode/tree/master/0670-maximum-swap) |
 ## Array
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Iyosinator/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iyosinator/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Graph
 |  |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Iyosinator/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Iyosinator/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
