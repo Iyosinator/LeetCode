@@ -1,19 +1,11 @@
 class Solution(object):
     def maxScore(self, s):
-        totalOnes = s.count('1')  # Count total ones
-        zerosCount = 0
-        onesCount = 0
-        bestScore = float('-inf')
+        n = len(s)
+        max_score = 0
+        for i in range(1,n):
+            left = s[:i]
+            right = s[i:]
+            score = left.count('0') + right.count('1')
+            max_score = max(max_score, score)
+        return max_score
 
-        # Traverse the string and calculate scores
-        for i in range(len(s) - 1):  # Stop before the last character
-            if s[i] == '0':
-                zerosCount += 1
-            else:
-                onesCount += 1
-
-            # Calculate score
-            currentScore = zerosCount + (totalOnes - onesCount)
-            bestScore = max(bestScore, currentScore)
-
-        return bestScore        
