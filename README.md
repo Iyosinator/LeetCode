@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Iyosinator/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/Iyosinator/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Iyosinator/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Iyosinator/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iyosinator/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Iyosinator/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/Iyosinator/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Iyosinator/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Iyosinator/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Iyosinator/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Iyosinator/LeetCode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Iyosinator/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Iyosinator/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Iyosinator/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Iyosinator/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Iyosinator/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Iyosinator/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Iyosinator/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Iyosinator/LeetCode/tree/master/3427-special-array-ii) |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Iyosinator/LeetCode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Iyosinator/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
