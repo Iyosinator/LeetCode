@@ -5,4 +5,3 @@ class Solution:
             if nums[i-1] == nums[i]:
                 return True
         return False
-        
