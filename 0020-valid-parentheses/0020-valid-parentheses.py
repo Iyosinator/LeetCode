@@ -5,7 +5,6 @@ class Solution:
             ")":"(",
             "}":"{",
             "]":"["
-
         }
         for char in s:
             if char in brac_dict:
