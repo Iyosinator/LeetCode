@@ -2,17 +2,16 @@ class Solution:
     def interpret(self, command: str) -> str:
         result = []
         i = 0
-        while i < len(command):
+        for i in range(len(command)):
             if command[i] == 'G':
                 result.append('G')
-                i += 1
             elif command[i] == '(':
                 if command[i+1] == ')':
                     result.append('o')
-                    i += 2
+                    i += 1
                 else:
                     result.append('al')
-                    i += 4
+                    i += 3
         return "".join(result)
         
 
