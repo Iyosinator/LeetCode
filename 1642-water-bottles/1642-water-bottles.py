@@ -3,9 +3,9 @@ class Solution:
         res = numBottles
         num = res
         while num >= numExchange:
-            rem = num%numExchange
-            free = num//numExchange
-            num = rem+free
+            rem = num % numExchange
+            free = num // numExchange
+            num = rem + free
             res+=free
         return res
         
