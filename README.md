@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Iyosinator/LeetCode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Iyosinator/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Iyosinator/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Iyosinator/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Iyosinator/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Iyosinator/LeetCode/tree/master/3429-special-array-i) |
 | [3435-block-placement-queries](https://github.com/Iyosinator/LeetCode/tree/master/3435-block-placement-queries) |
