@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Iyosinator/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0777-toeplitz-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Iyosinator/LeetCode/tree/master/0792-binary-search) |
+| [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 | [0898-transpose-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Iyosinator/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Iyosinator/LeetCode/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/Iyosinator/LeetCode/tree/master/0812-rotate-string) |
+| [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [1205-defanging-an-ip-address](https://github.com/Iyosinator/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Iyosinator/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Iyosinator/LeetCode/tree/master/1304-longest-happy-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Iyosinator/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Iyosinator/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
+| [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/Iyosinator/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Iyosinator/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Iyosinator/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Iyosinator/LeetCode/tree/master/0169-majority-element) |
+| [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [1635-number-of-good-pairs](https://github.com/Iyosinator/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Iyosinator/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Iyosinator/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
