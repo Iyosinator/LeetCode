@@ -9,9 +9,7 @@ class Solution:
 
         for i in range(min(n1,n2)):
             if s1[i] != s2[i]:
-                mismatch +=1
-        #return mismatch
-        
+                mismatch +=1 
         if (sorted(s1) == sorted(s2)) and (mismatch <= 2):
             return True
         else:
