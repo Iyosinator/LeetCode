@@ -1,23 +1,17 @@
 class Solution:
-    def subdomainVisits(self, cpdomains):
-        counter = collections.Counter()
+    def subdomainVisits(self, cpdomains: List[str]) -> List[str]:
+        subdomain_count = {}
+
         for cpdomain in cpdomains:
-            count, *domains = cpdomain.replace(" ",".").split(".")
-            for i in range(len(domains)):
-                counter[".".join(domains[i:])] += int(count)
-        return [" ".join((str(v), k)) for k, v in counter.items()]
-'''
-           
-           '900 google.mail.com"
-           "50 yahoo.com"
-           "1 intel.mail.com" 
-           "5 wiki.org"
+            count, domain = cpdomain.split(' ')
+            count = int(count)
 
-           mail.com - 900 + 1 = 901
-           .com - 900 + 50 + 1 = 951
-           .org - 5 = 5
+            subdomains = domain.split('.')
 
-           "901 mail.com",
-           "951 .com",
-           "5 wiki.org"
-'''
+            for i in range(len(subdomains)):
+                subdomain = '.'.join(subdomains[i:])
+                subdomain_count[subdomain] = subdomain_count.get(subdomain, 0) + count
+
+        result = [f"{count} {domain}" for domain, count in subdomain_count.items()]
+
+        return result
