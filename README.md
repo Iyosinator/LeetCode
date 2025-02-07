@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Iyosinator/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Iyosinator/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Iyosinator/LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Iyosinator/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3435-block-placement-queries](https://github.com/Iyosinator/LeetCode/tree/master/3435-block-placement-queries) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iyosinator/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3651-transformed-array](https://github.com/Iyosinator/LeetCode/tree/master/3651-transformed-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Iyosinator/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Iyosinator/LeetCode/tree/master/2846-robot-collisions) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Iyosinator/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3651-transformed-array](https://github.com/Iyosinator/LeetCode/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Iyosinator/LeetCode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Iyosinator/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Iyosinator/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Iyosinator/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iyosinator/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Tree
 |  |
