@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Iyosinator/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Iyosinator/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Iyosinator/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Iyosinator/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Iyosinator/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/Iyosinator/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Iyosinator/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Iyosinator/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
