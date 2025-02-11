@@ -4,17 +4,17 @@ class Solution:
         ans = []
         n = len(arr)
         
-        for value in range(n, 0, -1):  # Move largest values to their correct place
-            index = arr.index(value)  # Find the position of the current largest number
+        for value in range(n, 0, -1): 
+            index = arr.index(value) 
             
-            if index == value - 1:  # If already in the correct place, continue
+            if index == value - 1:  
                 continue 
             
             if index != 0:
-                ans.append(index + 1)  # Bring the largest number to the front
+                ans.append(index + 1)  
                 arr[:index + 1] = reversed(arr[:index + 1])
             
-            ans.append(value)  # Move the largest number to its correct position
+            ans.append(value)  
             arr[:value] = reversed(arr[:value])
         
         return ans
