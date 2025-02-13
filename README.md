@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Iyosinator/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Iyosinator/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Iyosinator/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Iyosinator/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Iyosinator/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Iyosinator/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Iyosinator/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Iyosinator/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Iyosinator/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Iyosinator/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Iyosinator/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Iyosinator/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Iyosinator/LeetCode/tree/master/0268-missing-number) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Iyosinator/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Iyosinator/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Iyosinator/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Iyosinator/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Iyosinator/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Iyosinator/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Iyosinator/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
