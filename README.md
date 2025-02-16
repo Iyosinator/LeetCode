@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Iyosinator/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Iyosinator/LeetCode/tree/master/1009-pancake-sorting) |
 | [1046-max-consecutive-ones-iii](https://github.com/Iyosinator/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Iyosinator/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Iyosinator/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Iyosinator/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Iyosinator/LeetCode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Iyosinator/LeetCode/tree/master/0858-masking-personal-information) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Iyosinator/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Iyosinator/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Iyosinator/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/Iyosinator/LeetCode/tree/master/1304-longest-happy-string) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/Iyosinator/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Iyosinator/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Iyosinator/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Iyosinator/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Iyosinator/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Iyosinator/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Iyosinator/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Iyosinator/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Iyosinator/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/Iyosinator/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iyosinator/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
