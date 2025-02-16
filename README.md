@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Iyosinator/LeetCode/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/Iyosinator/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Iyosinator/LeetCode/tree/master/1642-water-bottles) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Iyosinator/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/Iyosinator/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Iyosinator/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Iyosinator/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Iyosinator/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/Iyosinator/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1694-make-sum-divisible-by-p](https://github.com/Iyosinator/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/Iyosinator/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Iyosinator/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Iyosinator/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/Iyosinator/LeetCode/tree/master/1009-pancake-sorting) |
 | [1304-longest-happy-string](https://github.com/Iyosinator/LeetCode/tree/master/1304-longest-happy-string) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iyosinator/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Iyosinator/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Iyosinator/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iyosinator/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Iyosinator/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/Iyosinator/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Iyosinator/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Iyosinator/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -546,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0948-sort-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Iyosinator/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Iyosinator/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
