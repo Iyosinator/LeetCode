@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Iyosinator/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Iyosinator/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Iyosinator/LeetCode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Iyosinator/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Iyosinator/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Iyosinator/LeetCode/tree/master/0049-group-anagrams) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Iyosinator/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Iyosinator/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Iyosinator/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Iyosinator/LeetCode/tree/master/0164-maximum-gap) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Iyosinator/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Iyosinator/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Iyosinator/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Iyosinator/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Iyosinator/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
