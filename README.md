@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Iyosinator/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Iyosinator/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Iyosinator/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Iyosinator/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Iyosinator/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Iyosinator/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Iyosinator/LeetCode/tree/master/0070-climbing-stairs) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Iyosinator/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Iyosinator/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Iyosinator/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Iyosinator/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Iyosinator/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Iyosinator/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Iyosinator/LeetCode/tree/master/0075-sort-colors) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Iyosinator/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Iyosinator/LeetCode/tree/master/0048-rotate-image) |
 | [0661-image-smoother](https://github.com/Iyosinator/LeetCode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0898-transpose-matrix) |
