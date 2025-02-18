@@ -7,8 +7,8 @@ class Solution:
         for n in nums:
             curSum += n
             diff = curSum - k
-
-            res+= prefixSums.get(diff,0)
+            res += prefixSums.get(diff,0)
             prefixSums[curSum] = 1 + prefixSums.get(curSum,0)
+            print(prefixSums[curSum])
         
         return res
