@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Iyosinator/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Iyosinator/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Iyosinator/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Iyosinator/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Iyosinator/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Iyosinator/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Iyosinator/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Iyosinator/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Iyosinator/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Iyosinator/LeetCode/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Iyosinator/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Iyosinator/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Iyosinator/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Iyosinator/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Iyosinator/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Iyosinator/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Iyosinator/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
