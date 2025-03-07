@@ -7,13 +7,12 @@ class Solution:
             queue.append(i)
 
         deck.sort()
-        ans = [0] * n
+        res = [0] * n
         for card in deck:
-            ans[queue.popleft()] = card
+            res[queue.popleft()] = card
             if queue:
                 queue.append(queue.popleft())
-
-        return ans
+        return res
 
 
 
