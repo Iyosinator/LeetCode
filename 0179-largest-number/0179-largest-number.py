@@ -1,13 +1,7 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        nums = [str(num) for num in nums]
-        nums.sort(key = lambda x:x*200,reverse= True)
-        result = ''.join(nums)
-        if result[0] != "0":
-            return result
-        else:
-            return '0'
-
-
-
-        
+        num_strings = [str(num) for num in nums]
+        num_strings.sort(key=lambda a: a * 10, reverse=True)
+        if num_strings[0] == "0":
+            return "0"
+        return "".join(num_strings)
