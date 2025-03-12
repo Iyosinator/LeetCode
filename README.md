@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/Iyosinator/LeetCode/tree/master/1449-print-words-vertically) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Iyosinator/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Iyosinator/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Iyosinator/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Iyosinator/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1797-goal-parser-interpretation](https://github.com/Iyosinator/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Iyosinator/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1449-print-words-vertically](https://github.com/Iyosinator/LeetCode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/Iyosinator/LeetCode/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Iyosinator/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Iyosinator/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Iyosinator/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Iyosinator/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -575,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/Iyosinator/LeetCode/tree/master/1028-interval-list-intersections) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Iyosinator/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
