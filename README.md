@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Iyosinator/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Iyosinator/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Iyosinator/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Iyosinator/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Iyosinator/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Iyosinator/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Iyosinator/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Iyosinator/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Iyosinator/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Iyosinator/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Iyosinator/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Iyosinator/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Iyosinator/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
