@@ -21,9 +21,7 @@ class Solution:
         def dfs(id):
             nonlocal total
             if id not in visited:
-                
                 total += has[id]
-            
             for g in graph[id]:
                 if g not in visited:
                     total += has[g]
