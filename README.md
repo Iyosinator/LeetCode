@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Iyosinator/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Iyosinator/LeetCode/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Iyosinator/LeetCode/tree/master/1028-interval-list-intersections) |
+| [1036-rotting-oranges](https://github.com/Iyosinator/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Iyosinator/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Iyosinator/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Iyosinator/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Iyosinator/LeetCode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Iyosinator/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Iyosinator/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Iyosinator/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Iyosinator/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Iyosinator/LeetCode/tree/master/0690-employee-importance) |
 | [0871-keys-and-rooms](https://github.com/Iyosinator/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/Iyosinator/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/Iyosinator/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Iyosinator/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Iyosinator/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
