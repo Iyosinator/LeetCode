@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Iyosinator/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/Iyosinator/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0945-snakes-and-ladders](https://github.com/Iyosinator/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Iyosinator/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Iyosinator/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Iyosinator/LeetCode/tree/master/0695-max-area-of-island) |
 | [0777-toeplitz-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/Iyosinator/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Iyosinator/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Iyosinator/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Iyosinator/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Iyosinator/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Iyosinator/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Iyosinator/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/Iyosinator/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Iyosinator/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/Iyosinator/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Iyosinator/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
