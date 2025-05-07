@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1694-make-sum-divisible-by-p](https://github.com/Iyosinator/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Iyosinator/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/Iyosinator/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Iyosinator/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Iyosinator/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Iyosinator/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iyosinator/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [3189-find-champion-ii](https://github.com/Iyosinator/LeetCode/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Iyosinator/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iyosinator/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -708,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Iyosinator/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
