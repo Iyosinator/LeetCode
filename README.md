@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Iyosinator/LeetCode/tree/master/0661-image-smoother) |
 | [0690-employee-importance](https://github.com/Iyosinator/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Iyosinator/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Iyosinator/LeetCode/tree/master/0722-remove-comments) |
 | [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Iyosinator/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Iyosinator/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Iyosinator/LeetCode/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Iyosinator/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
+| [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Iyosinator/LeetCode/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Iyosinator/LeetCode/tree/master/0768-partition-labels) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Iyosinator/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Iyosinator/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [0917-boats-to-save-people](https://github.com/Iyosinator/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0948-sort-an-array) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/Iyosinator/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Iyosinator/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0690-employee-importance](https://github.com/Iyosinator/LeetCode/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Iyosinator/LeetCode/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Iyosinator/LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/Iyosinator/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Iyosinator/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Iyosinator/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Iyosinator/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Iyosinator/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Iyosinator/LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/Iyosinator/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Iyosinator/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Iyosinator/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Iyosinator/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Iyosinator/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -687,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Iyosinator/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Iyosinator/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Iyosinator/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Iyosinator/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iyosinator/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 ## Topological Sort
