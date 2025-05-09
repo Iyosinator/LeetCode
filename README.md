@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Iyosinator/LeetCode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Iyosinator/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [1002-maximum-width-ramp](https://github.com/Iyosinator/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Iyosinator/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Iyosinator/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Iyosinator/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/Iyosinator/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Iyosinator/LeetCode/tree/master/0729-my-calendar-i) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Iyosinator/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Iyosinator/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Iyosinator/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
