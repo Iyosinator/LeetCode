@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Iyosinator/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Iyosinator/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Iyosinator/LeetCode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Iyosinator/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Iyosinator/LeetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Iyosinator/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Iyosinator/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Iyosinator/LeetCode/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Iyosinator/LeetCode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/Iyosinator/LeetCode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0633-sum-of-square-numbers) |
