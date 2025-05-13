@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Iyosinator/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Iyosinator/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Iyosinator/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Iyosinator/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Iyosinator/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Iyosinator/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iyosinator/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Iyosinator/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Iyosinator/LeetCode/tree/master/0051-n-queens) |
 ## Union Find
 |  |
 | ------- |
