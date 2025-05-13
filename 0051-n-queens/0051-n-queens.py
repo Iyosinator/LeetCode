@@ -2,7 +2,7 @@ class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         def backtrack(row, cols, diag1, diag2, board):
             if row == n:
-                result.append(["".join(r) for r in board])
+                r.append(["".join(r) for r in board])
                 return
             
             for col in range(n):
@@ -21,8 +21,8 @@ class Solution:
                 diag1.remove(row - col)
                 diag2.remove(row + col)
     
-        result = []
+        r = []
         board = [['.' for _ in range(n)] for _ in range(n)]
         backtrack(0, set(), set(), set(), board)
-        return result
+        return r
         
