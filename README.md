@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Iyosinator/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/Iyosinator/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Iyosinator/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/Iyosinator/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Iyosinator/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Iyosinator/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Iyosinator/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3055-maximum-odd-binary-number](https://github.com/Iyosinator/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Iyosinator/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Iyosinator/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3379-score-of-a-string](https://github.com/Iyosinator/LeetCode/tree/master/3379-score-of-a-string) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Iyosinator/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Iyosinator/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3055-maximum-odd-binary-number](https://github.com/Iyosinator/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Iyosinator/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
