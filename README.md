@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Iyosinator/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Iyosinator/LeetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Iyosinator/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/Iyosinator/LeetCode/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Iyosinator/LeetCode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Iyosinator/LeetCode/tree/master/0475-heaters) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Iyosinator/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Iyosinator/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Iyosinator/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0399-evaluate-division](https://github.com/Iyosinator/LeetCode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Iyosinator/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Iyosinator/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Iyosinator/LeetCode/tree/master/0567-permutation-in-string) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Iyosinator/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Iyosinator/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Iyosinator/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Iyosinator/LeetCode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Iyosinator/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/Iyosinator/LeetCode/tree/master/0529-minesweeper) |
 | [0684-redundant-connection](https://github.com/Iyosinator/LeetCode/tree/master/0684-redundant-connection) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Iyosinator/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Iyosinator/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Iyosinator/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Iyosinator/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Iyosinator/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Iyosinator/LeetCode/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Matrix
 |  |
@@ -573,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Iyosinator/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Iyosinator/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Iyosinator/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Iyosinator/LeetCode/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Iyosinator/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/Iyosinator/LeetCode/tree/master/0529-minesweeper) |
 | [0684-redundant-connection](https://github.com/Iyosinator/LeetCode/tree/master/0684-redundant-connection) |
@@ -753,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Iyosinator/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Iyosinator/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Iyosinator/LeetCode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Iyosinator/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Iyosinator/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
