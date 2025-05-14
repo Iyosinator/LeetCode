@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Iyosinator/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Iyosinator/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Iyosinator/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [3189-find-champion-ii](https://github.com/Iyosinator/LeetCode/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Iyosinator/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Iyosinator/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iyosinator/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Iyosinator/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
