@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Iyosinator/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iyosinator/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1955-seat-reservation-manager](https://github.com/Iyosinator/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/Iyosinator/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Iyosinator/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Iyosinator/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Iyosinator/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Iyosinator/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1955-seat-reservation-manager](https://github.com/Iyosinator/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Ordered Set
 |  |
 | ------- |
