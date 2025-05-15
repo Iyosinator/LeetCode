@@ -27,8 +27,8 @@ class Solution:
                 if indegree[adj] == 0:
                     q.append(adj)
 
-        answer = []
+        a = []
         for q in queries:
-            answer.append(q[0] in nodePrerequisites[q[1]])
+            a.append(q[0] in nodePrerequisites[q[1]])
 
-        return answer
+        return a
