@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Iyosinator/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Iyosinator/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Iyosinator/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Iyosinator/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Iyosinator/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Iyosinator/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Iyosinator/LeetCode/tree/master/0179-largest-number) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Iyosinator/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Iyosinator/LeetCode/tree/master/0148-sort-list) |
 | [0432-all-oone-data-structure](https://github.com/Iyosinator/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Iyosinator/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Iyosinator/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Iyosinator/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Iyosinator/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Iyosinator/LeetCode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Iyosinator/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Iyosinator/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Iyosinator/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Iyosinator/LeetCode/tree/master/0283-move-zeroes) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Iyosinator/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Iyosinator/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0948-sort-an-array) |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Iyosinator/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Iyosinator/LeetCode/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
