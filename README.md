@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Iyosinator/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Iyosinator/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iyosinator/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Iyosinator/LeetCode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Iyosinator/LeetCode/tree/master/0486-predict-the-winner) |
 | [0806-domino-and-tromino-tiling](https://github.com/Iyosinator/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 ## Graph
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Iyosinator/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Iyosinator/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Iyosinator/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Iyosinator/LeetCode/tree/master/0461-hamming-distance) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iyosinator/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Number Theory
