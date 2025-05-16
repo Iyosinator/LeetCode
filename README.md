@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/Iyosinator/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Iyosinator/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1762-furthest-building-you-can-reach](https://github.com/Iyosinator/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1791-richest-customer-wealth](https://github.com/Iyosinator/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Iyosinator/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iyosinator/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Iyosinator/LeetCode/tree/master/1304-longest-happy-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Iyosinator/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1762-furthest-building-you-can-reach](https://github.com/Iyosinator/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iyosinator/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Iyosinator/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Iyosinator/LeetCode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/Iyosinator/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Iyosinator/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1762-furthest-building-you-can-reach](https://github.com/Iyosinator/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iyosinator/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1955-seat-reservation-manager](https://github.com/Iyosinator/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/Iyosinator/LeetCode/tree/master/1962-single-threaded-cpu) |
