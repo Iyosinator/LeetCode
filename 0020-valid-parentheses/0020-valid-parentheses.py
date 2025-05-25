@@ -1,20 +1,27 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        brac_dict = { ")":"(", "}":"{", "]":"[" }
-        opening = set(brac_dict.values())
+        def helper(start, end):
+            if start > end:
+                return True
+            if (end - start + 1) % 2 != 0:
+                return False
 
-        for char in s:
-            if char in brac_dict.keys():
-                if stack and stack[-1] == brac_dict[char]:
-                    stack.pop()
-                else:
-                    return False
-            elif char in opening:
-                stack.append(char)
-            else:
-                continue
-        return not stack            
+            pairs = {'(': ')', '[': ']', '{': '}'}
 
-         
-        
+            if s[start] not in pairs:
+                return False
+
+            match = pairs[s[start]]
+            depth = 0
+
+            for i in range(start + 1, end + 1):
+                if s[i] == s[start]:
+                    depth += 1
+                elif s[i] == match:
+                    if depth == 0:
+                        return helper(start + 1, i - 1) and helper(i + 1, end)
+                    else:
+                        depth -= 1
+            return False
+
+        return helper(0, len(s) - 1)
