@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Iyosinator/LeetCode/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Iyosinator/LeetCode/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Iyosinator/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Iyosinator/LeetCode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/Iyosinator/LeetCode/tree/master/0858-masking-personal-information) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Iyosinator/LeetCode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Iyosinator/LeetCode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Iyosinator/LeetCode/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Iyosinator/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0829-subdomain-visit-count](https://github.com/Iyosinator/LeetCode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/Iyosinator/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1039-find-the-town-judge](https://github.com/Iyosinator/LeetCode/tree/master/1039-find-the-town-judge) |
