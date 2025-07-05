@@ -1,15 +1,15 @@
 class Solution:
     def findLucky(self, arr: List[int]) -> int:
-        lucky = []
         x = Counter(arr)
+        maxx = 0
 
         for i,j in x.items():
             if i == j:
-                lucky.append(i)
+                maxx = max(i,maxx)
         
 
-        if lucky:
-            return max(lucky)
+        if maxx != 0:
+            return maxx
         else:
             return -1
     
