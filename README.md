@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Iyosinator/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Iyosinator/LeetCode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/Iyosinator/LeetCode/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/Iyosinator/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Iyosinator/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Iyosinator/LeetCode/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/Iyosinator/LeetCode/tree/master/1009-pancake-sorting) |
 | [1285-balance-a-binary-search-tree](https://github.com/Iyosinator/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/Iyosinator/LeetCode/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/Iyosinator/LeetCode/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Iyosinator/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Iyosinator/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1762-furthest-building-you-can-reach](https://github.com/Iyosinator/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
