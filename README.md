@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Iyosinator/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Iyosinator/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/Iyosinator/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Iyosinator/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Iyosinator/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Iyosinator/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Iyosinator/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Iyosinator/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Iyosinator/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Iyosinator/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Iyosinator/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Iyosinator/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Iyosinator/LeetCode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/Iyosinator/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/Iyosinator/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Iyosinator/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Iyosinator/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Iyosinator/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Iyosinator/LeetCode/tree/master/2502-sort-the-people) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/Iyosinator/LeetCode/tree/master/1009-pancake-sorting) |
 | [1028-interval-list-intersections](https://github.com/Iyosinator/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Iyosinator/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Iyosinator/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Iyosinator/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Iyosinator/LeetCode/tree/master/2551-apply-operations-to-an-array) |
