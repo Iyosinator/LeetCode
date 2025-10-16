@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Iyosinator/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2621-find-xor-beauty-of-array](https://github.com/Iyosinator/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/Iyosinator/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Iyosinator/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Iyosinator/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3055-maximum-odd-binary-number](https://github.com/Iyosinator/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Iyosinator/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Iyosinator/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2621-find-xor-beauty-of-array](https://github.com/Iyosinator/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Iyosinator/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Iyosinator/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Iyosinator/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Iyosinator/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/Iyosinator/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Iyosinator/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Iyosinator/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Iyosinator/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Iyosinator/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3055-maximum-odd-binary-number](https://github.com/Iyosinator/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Iyosinator/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Iyosinator/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Iyosinator/LeetCode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Iyosinator/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Iyosinator/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Iyosinator/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Iyosinator/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Iyosinator/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
