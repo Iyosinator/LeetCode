@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Iyosinator/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3055-maximum-odd-binary-number](https://github.com/Iyosinator/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Iyosinator/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Iyosinator/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Iyosinator/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3379-score-of-a-string](https://github.com/Iyosinator/LeetCode/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Iyosinator/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Iyosinator/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/Iyosinator/LeetCode/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Iyosinator/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Iyosinator/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Graph
 |  |
 | ------- |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iyosinator/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/Iyosinator/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2621-find-xor-beauty-of-array](https://github.com/Iyosinator/LeetCode/tree/master/2621-find-xor-beauty-of-array) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Iyosinator/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Number Theory
 |  |
 | ------- |
@@ -895,4 +898,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Iyosinator/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Iyosinator/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Iyosinator/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
