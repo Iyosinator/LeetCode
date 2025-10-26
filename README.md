@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iyosinator/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Iyosinator/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2169-simple-bank-system](https://github.com/Iyosinator/LeetCode/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Iyosinator/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Iyosinator/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Iyosinator/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Iyosinator/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Iyosinator/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Iyosinator/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Iyosinator/LeetCode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/Iyosinator/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Iyosinator/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Iyosinator/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Iyosinator/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Iyosinator/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iyosinator/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2169-simple-bank-system](https://github.com/Iyosinator/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Iyosinator/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Iyosinator/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Iyosinator/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/Iyosinator/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Iyosinator/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1955-seat-reservation-manager](https://github.com/Iyosinator/LeetCode/tree/master/1955-seat-reservation-manager) |
+| [2169-simple-bank-system](https://github.com/Iyosinator/LeetCode/tree/master/2169-simple-bank-system) |
 ## Ordered Set
 |  |
 | ------- |
