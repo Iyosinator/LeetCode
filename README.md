@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Iyosinator/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Iyosinator/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Iyosinator/LeetCode/tree/master/1449-print-words-vertically) |
+| [1470-shuffle-the-array](https://github.com/Iyosinator/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Iyosinator/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Iyosinator/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iyosinator/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
