@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Iyosinator/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Iyosinator/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/Iyosinator/LeetCode/tree/master/1009-pancake-sorting) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Iyosinator/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1028-interval-list-intersections](https://github.com/Iyosinator/LeetCode/tree/master/1028-interval-list-intersections) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Iyosinator/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Iyosinator/LeetCode/tree/master/1036-rotting-oranges) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Iyosinator/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Iyosinator/LeetCode/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/Iyosinator/LeetCode/tree/master/0800-letter-case-permutation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Iyosinator/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Iyosinator/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Iyosinator/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/Iyosinator/LeetCode/tree/master/2478-longest-nice-subarray) |
