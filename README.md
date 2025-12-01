@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Iyosinator/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iyosinator/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Iyosinator/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Iyosinator/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Iyosinator/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Iyosinator/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Sliding Window
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Iyosinator/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Iyosinator/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Iyosinator/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3189-find-champion-ii](https://github.com/Iyosinator/LeetCode/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Iyosinator/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iyosinator/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Iyosinator/LeetCode/tree/master/1558-course-schedule-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Iyosinator/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Iyosinator/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Iyosinator/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Trie
@@ -922,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Iyosinator/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Iyosinator/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Iyosinator/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Iyosinator/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
